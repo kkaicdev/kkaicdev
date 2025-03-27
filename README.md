@@ -1,4 +1,4 @@
 ## Hello! 
 
-- 👋 I’m a software developer experienced in C++, C, and Python.
-- 💻 I’m passionate about networks, security, and low-level systems. :)
+- 👋 Hi! I’m a software engineer with experience in C++, C, and Python.
+- 💻 I’m passionate about networking, security, and low-level systems.
